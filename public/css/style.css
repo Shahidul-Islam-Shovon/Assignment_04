@@ -1,0 +1,11 @@
+.card-header {
+    font-size: 1.5rem;
+}
+
+.font-weight-bold {
+    font-weight: 600;
+}
+
+.card-body div.row {
+    padding: 0.5rem 0;
+}
